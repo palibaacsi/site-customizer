@@ -3,7 +3,7 @@ namespace Site_Customizer\inc\classes;
 
 defined( 'ABSPATH' ) or die( 'File cannot be accessed directly' );
 
-class Login_Helpers {
+class Logging_Helpers {
 
 	public static function init() {
 

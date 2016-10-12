@@ -15,7 +15,7 @@ defined( 'ABSPATH' ) or die( 'File cannot be accessed directly' );
 require_once( 'autoload.php' );
 
 inc\classes\Dev_Dashboard::init();
-inc\classes\Login_Helpers::init();
+inc\classes\Logging_Helpers::init();
 inc\classes\Setup_Functions::init();
 inc\classes\WP_Logging::init();
 
